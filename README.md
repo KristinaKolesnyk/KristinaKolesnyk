@@ -1,7 +1,7 @@
 ## Hi, I'm Kristina 👋
 
 👩🏼‍💻 Software Engineer with a passion for web and mobile development.  
-🌟 Proficient in **React**, **Node.js**, **Swift**, and **Android**.  
+🌟 Proficient in **React**, **Node.js**, **JavaScript**, and **TypeScript**.  
 💼 Focused on building scalable, full-stack applications.  
 🚀 Always learning and evolving to create efficient solutions.
 
