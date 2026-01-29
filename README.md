@@ -1,9 +1,7 @@
 ## Hi, I'm Kristina 👋
 
-👩🏼‍💻 Software Engineer with a passion for web and mobile development.  
-🌟 Proficient in **React**, **Node.js**, **JavaScript**, and **TypeScript**.  
-💼 Focused on building scalable, full-stack applications.  
-🚀 Always learning and evolving to create efficient solutions.
+👩🏼‍💻 I’m currently working on Innovation Labs @ PIXOMONDO  
+🚀 How to reach me: on teams at pixo or via linkedIn as Kristina Kolesnyk
 
 ## 💻 Core Tech
 
