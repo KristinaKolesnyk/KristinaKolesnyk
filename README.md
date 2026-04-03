@@ -2,7 +2,7 @@
 
 👩🏼‍💻 I’m currently working in Innovation Labs at PIXOMONDO (Sony) 
 
-🚀 How to reach me: on teams at pixo or via linkedIn as Kristina Kolesnyk
+🚀 How to reach me: on teams at pixo or via linkedIn as Kristina Kolesnyk 
 
 ## 💻 Core Tech
 
