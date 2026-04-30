@@ -4,7 +4,7 @@
 
 🚀 How to reach me: on teams at pixo or via linkedIn as Kristina Kolesnyk 
 
-## 💻 Core Tech
+## 💻 Core Tech 
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
